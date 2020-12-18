@@ -147,7 +147,7 @@ img.mfp-img {
 
 button.mfp-close,
 button.mfp-arrow {
-  background: #fc6060; }
+   }
 
 .mfp-bottom-bar {
   display: none !important; }
@@ -1372,7 +1372,7 @@ input:required {
   .single-post-area .post-thumbnail {
     display: block;
     overflow: hidden; }
-    .single-post-area .post-thumbnail img {
+    .single-post-area .post-thumbnail img  {
       width: 100%;
       -webkit-transition-duration: 800ms;
       -o-transition-duration: 800ms;
