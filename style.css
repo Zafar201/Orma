@@ -1366,7 +1366,7 @@ input:required {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    /* background-color: rgba(0, 0, 0, 0.5); */
     content: '';
     z-index: 1; }
   .single-post-area .post-thumbnail {
